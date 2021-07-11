@@ -20,4 +20,4 @@ pip3 install -r requirements.txt
 - You may use `virtualenv` to run this app in there.
 
 ### Contributor: 
-- please add name of the contributor who made the project.  
+- Kush Trivedi 
