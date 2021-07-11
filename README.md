@@ -18,3 +18,6 @@ pip3 install -r requirements.txt
 #### Note:
 - Please make sure you have a strong GPU, since the following requires quite a more computer power.
 - You may use `virtualenv` to run this app in there.
+
+### Contributor: 
+- kush Trivedi
